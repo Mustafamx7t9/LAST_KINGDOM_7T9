@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="./images/lastkingdom-banner.jpg" width="100%" alt="LAST KINGDOM V17 Banner">
-</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐑𝐎𝐌𝐄𝐊%20-𝐗𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐑𝐎𝐌𝐄𝐊%20𝐗𝐃..💖)
+<p align="center"> 
+<p align="center">
+  <img src="https://files.catbox.moe/119585.jpg" width="250" alt="ROMEK-XD Logo"/>
+</p>
+---
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=☠️+LAST+KINGDOM+V17+BOT+☠️;𝐀𝐋𝐀𝐃𝐃𝐈𝐍+𝐌𝐃+%7C+𝐋𝐀𝐒𝐓+𝐊𝐈𝐍𝐆𝐃𝐎𝐌+𝟕𝐓𝟗+⚔️;Elite+Multi-Device+WhatsApp+Bot;Dark+Terminal+Command+Control" alt="Typing SVG">
