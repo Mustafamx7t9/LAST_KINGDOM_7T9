@@ -1,15 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐀𝐋𝐀𝐃𝐃𝐈𝐍%20-𝐌𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐌𝐔𝐒𝐓𝐀𝐅𝐀%20𝐊𝐈𝐍𝐆..💖)
 <p align="center"> 
 <p align="center">
-  <img src="https://files.catbox.moe/119585.jpg" width="250" alt="ALADDIN-MD Logo"/>
-</p>
+
 ---
 
 
-## 🔴 𝐂𝐎𝐌𝐈𝐍𝐆 ✦ 𝐆𝐎𝐈𝐍𝐆 ✦ 𝐑𝐎𝐎𝐓𝐄𝐃 ✦ 𝐎𝐍𝐋𝐈𝐍𝐄 ✦ 𝐎𝐅𝐅𝐋𝐈𝐍𝐄
+## 🔴 𝐌𝐔𝐒𝐓𝐀𝐅𝐀-𝐊𝐈𝐍𝐆 ✦ 
 
 > Developed under the shadows by **𝐀𝐋𝐀𝐃𝐃𝐈𝐍 𝐌𝐃**  
-> Powered by ⚔️ **𝐋𝐀𝐒𝐓 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝟕𝐓𝟗**
+> Powered by ⚔️
+> **𝐋𝐀𝐒𝐓 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝟕𝐓𝟗**
 
 ---
 
