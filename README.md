@@ -1,10 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐑𝐎𝐌𝐄𝐊%20-𝐗𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐑𝐎𝐌𝐄𝐊%20𝐗𝐃..💖)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐀𝐋𝐀𝐃𝐃𝐈𝐍%20-𝐌𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐌𝐔𝐒𝐓𝐀𝐅𝐀%20𝐊𝐈𝐍𝐆..💖)
 <p align="center"> 
 <p align="center">
-  <img src="[![20250619-032632.jpg](https://i.postimg.cc/3w1JV8wn/20250619-032632.jpg)](https://postimg.cc/bGGh2jkt)" width="250" alt="ROMEK-XD Logo"/>
+  <img src="https://files.catbox.moe/119585.jpg" width="250" alt="ALADDIN-MD Logo"/>
 </p>
 ---
-
 
 
 ## 🔴 𝐂𝐎𝐌𝐈𝐍𝐆 ✦ 𝐆𝐎𝐈𝐍𝐆 ✦ 𝐑𝐎𝐎𝐓𝐄𝐃 ✦ 𝐎𝐍𝐋𝐈𝐍𝐄 ✦ 𝐎𝐅𝐅𝐋𝐈𝐍𝐄
