@@ -5,7 +5,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=☠️+LAST+KINGDOM+V17+BOT+☠️;𝐀𝐋𝐀𝐃𝐃𝐈𝐍+𝐌𝐃+%7C+𝐋𝐀𝐒𝐓+𝐊𝐈𝐍𝐆𝐃𝐎𝐌+𝟕𝐓𝟗+⚔️;Elite+Multi-Device+WhatsApp+Bot;Dark+Terminal+Command+Control" alt="Typing SVG">
 </h1>
-
+<img src="https://files.catbox.moe/bq0drb.jpg" width="250" alt="ROMEK-XD Logo"/>
+</p>
+---
 ---
 
 ## 🔴 𝐂𝐎𝐌𝐈𝐍𝐆 ✦ 𝐆𝐎𝐈𝐍𝐆 ✦ 𝐑𝐎𝐎𝐓𝐄𝐃 ✦ 𝐎𝐍𝐋𝐈𝐍𝐄 ✦ 𝐎𝐅𝐅𝐋𝐈𝐍𝐄
